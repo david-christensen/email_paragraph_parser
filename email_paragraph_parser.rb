@@ -1,4 +1,3 @@
-require 'pry'
 VALID_EMAIL_REGEX = /^([\w\.%\+\-]+)@([\w\-]+\.)+([\w]{2,})$/i
 
 class EmailParagraphParser
